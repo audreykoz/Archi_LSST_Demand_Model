@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Policy] Retention of Data in the L1 Realtime Database (Contract)"
+    id="9d99a9f0-2b7a-46af-98f9-6c91b0e9510f"
+    documentation="The real-time database shall keep data from the most recent 30 days of operations available."/>

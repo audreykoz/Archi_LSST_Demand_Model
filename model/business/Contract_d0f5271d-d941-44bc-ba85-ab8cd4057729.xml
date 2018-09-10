@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Policy] Ingestion of L1 Input Output Cache Files into Data Backbone (Contract)"
+    id="d0f5271d-d941-44bc-ba85-ab8cd4057729"
+    documentation="The policy is to ingest these files into the data backbone, contingent on the databackbone being available.  The rationale behind the policy is to make especially PVI&quot;s available concurrent with prompt data products, such  as alerts and real-time inspection of data products.&#xA;It is likley that given a backlog, for example,  due to a down time of databackbone, recently recently generated files  have priorithy for ingest over older files. &#xA;&#xA;"/>

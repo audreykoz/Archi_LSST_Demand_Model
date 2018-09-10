@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Policy] Retention of L1 Files within the Data Backbone (Contract)"
+    id="7dc0195c-d90a-40e9-8f51-10d0641df623"
+    documentation="The policy implements  the DPDD for 30 day retention.&#xA;&#xA;Some have noticed that these PVI's are the only processed images avaible until annula release. and shodl be retrined unt an PVI is supplanted via an annula realase.&#xA;The thinking anto include some oft exposgures/images will never be processed in an annul realase becasue tthe exposures fail to ett quality ciuts.&#xA;such PVIs woudl be retained for the life of the survey.  "/>

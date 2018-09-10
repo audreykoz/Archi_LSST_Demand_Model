@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Policy] Retention of L1 Files within the L1 Input Output Cache (Contract)"
+    id="a9652f28-463f-4596-a650-b17e0e6890cc"
+    documentation="Provided that adequate data has been ingested into the data backbone, purge down cache to support next night of operations. Generate an ITIL incident if the sufficient space cannot be freed for next night's operations."/>

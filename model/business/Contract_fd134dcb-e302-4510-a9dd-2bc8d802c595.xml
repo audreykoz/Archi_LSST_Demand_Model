@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Policy] Consistent with Operational Science Configuration specified by LSST Data Release Board (Contract)"
+    id="fd134dcb-e302-4510-a9dd-2bc8d802c595"
+    documentation="Update templates consistent with the operations of L1, normally implying daily operations. A concern is that the templates are expected to be very large, and may not be able to be updated in one night.&#xA;Update reference photometric and astromentric catalogs according to LSST data release board, providing for contingency of rolling back to previous versions of catalogs."/>

@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create/Read"
+    id="c02fe384-79e0-40e0-9f57-4d3ba2f71a59"
+    accessType="3">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_96bab06e-8aae-4453-88a6-6716ee03b8bc.xml#96bab06e-8aae-4453-88a6-6716ee03b8bc"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_898d4233-889c-42df-97e2-09ee08a0fa56.xml#898d4233-889c-42df-97e2-09ee08a0fa56"/>
+</archimate:AccessRelationship>

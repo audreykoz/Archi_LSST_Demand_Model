@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="L1 Input Output Cache (Node)"
+    id="7e76d9e3-7e92-411d-8844-220f7307af0e"
+    documentation="The Input Output Cache is sufficiently large to sustain processing over the longest period of data backbone downtime. The cache is not backed up. In case of failure of the cache, any needed state to resume operations can be reingested from the data backbone."/>

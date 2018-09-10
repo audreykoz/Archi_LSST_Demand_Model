@@ -1,0 +1,34 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSST Demand Scratch Pad"
+    id="37729dc9-3e15-41eb-9f21-1be89229996e"
+    version="4.0.0">
+  <properties
+      key="Report:Model:Hide:Business"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Application"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Technology&amp;Physical"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Motivation"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Implementation&amp;Migration"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Other"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Relations"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Views"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:ViewNumbering"
+      value="true"/>
+  <metadata/>
+</archimate:ArchimateModel>

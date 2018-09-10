@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="_READ_ME_"
+    id="2d6b8adb-7bb2-4169-b518-ed29683c17ab">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="f637ea56-fee3-478e-905c-7869abb7f0f9"
+      textAlignment="1"
+      fillColor="#f6f6d8"
+      content="Properties that follow are used by the &quot;Customizable Report&quot;&#xA;&#xA;There are two types of properties: &quot;model wide&quot; or &quot;view only&quot;. &quot;model wide&quot; properties affect the whole report where &quot;view only&quot; properties impact only the rendering of the view having them set.&#xA;&#xA;&#xA;MODEL WIDE PROPERTIES&#xA;&#xA;Report:Model:Hide:Business&#xA;&#x9;Set to &quot;true&quot; to hide the list of business concepts.&#xA;Report:Model:Hide:Application&#xA;&#x9;Set to &quot;true&quot; to hide the list of application concepts.&#xA;Report:Model:Hide:Technology&amp;Physical&#xA;&#x9;Set to &quot;true&quot; to hide the list of technlology and physical concepts.&#xA;Report:Model:Hide:Motivation&#xA;&#x9;Set to &quot;true&quot; to hide the list of motivation extension concepts&#xA;Report:Model:Hide:Implementation&amp;Migration&#xA;&#x9;Set to &quot;true&quot; to hide the list of implementation &amp; migration extension concepts.&#xA;Report:Model:Hide:Other&#xA;&#x9;Set to &quot;true&quot; to hide the list of connectors and groupings.&#xA;Report:Model:Hide:Relations&#xA;&#x9;Set to &quot;true&quot; to hide the list of relations. &#xA;Report:Model:Hide:Views&#xA;&#x9;Set to &quot;true&quot; to hide the list of views.&#xA;Report:Model:Hide:ViewNumbering&#xA;&#x9;Set to &quot;true&quot; to hide numbering at the begining of view name (regexp '^[0-9.]* ').&#xA;Report:Model:Cover:Background&#xA;&#x9;URL or path to an image used on the cover (595 x 842).&#xA;&#x9;If unset a default image is used. Set it to &quot;null&quot; to disable it.&#xA;Report:Model:Header:Background&#xA;&#x9;URL or path to an image used on page header (595 x 50).&#xA;&#x9;If unset a default image is used. Set it to &quot;null&quot; to disable it.&#xA;&#xA;&#xA;VIEW ONLY PROPERTIES&#xA;&#xA;Report:View:Detailed&#xA;&#x9;Set to &quot;true&quot; to show a detailed list of elements.&#xA;Report:View:Hide&#xA;&#x9;Set to &quot;true&quot; to hide the view.&#xA;Report:View:Hide:Diagram&#xA;&#x9;Set to &quot;true&quot; to hide the diagram.&#xD;&#xA;Report:View:Tag&#xD;&#xA;&#x9;Use this property to tag a view (you can use this property multiple time). Tags can then be used to create a report containing only one specific tag. To do this add &quot;#tagname&quot; to the end of the report title (case insensitive). You can make a view visible for all tag using the special tag &quot;all&quot;.">
+    <bounds
+        x="12"
+        y="12"
+        width="685"
+        height="721"/>
+  </children>
+  <properties
+      key="Report:View:Hide"
+      value="true"/>
+  <properties
+      key="Report:View:Hide:Diagram"
+      value="(unused. here only to reference it once in global properties list)"/>
+  <properties
+      key="Report:View:Detailed"
+      value="(unused. here only to reference it once in global properties list)"/>
+  <properties
+      key="Report:Model:Cover:Background"
+      value="(unused. here only to reference it once in global properties list)"/>
+  <properties
+      key="Report:Model:Header:Background"
+      value="(unused. here only to reference it once in global properties list)"/>
+  <properties
+      key="Report:View:Tag"
+      value="(unused. here only to reference it once in global properties list)"/>
+</archimate:ArchimateDiagramModel>

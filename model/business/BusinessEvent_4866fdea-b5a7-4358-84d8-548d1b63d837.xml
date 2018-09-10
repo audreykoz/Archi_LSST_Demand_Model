@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="L1 Morning Cleanup (Business Event)"
+    id="4866fdea-b5a7-4358-84d8-548d1b63d837"
+    documentation="This event occurs every morning when L1 processing has occurred."/>

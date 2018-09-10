@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="L1 OCS PSF and WCS Metadata (Artifact)"
+    id="3b5f1738-826e-4844-9084-54ac418d871d"
+    documentation="This includes a file-based record of the feedback that is meant to be sent to the observatory as well as any other quality parameters that need to be retained."/>

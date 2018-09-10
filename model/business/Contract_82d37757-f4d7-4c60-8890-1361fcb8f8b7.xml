@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Policy] Management of L1 Input Output Cache Calibrations (Contract)"
+    id="82d37757-f4d7-4c60-8890-1361fcb8f8b7"
+    documentation="The four mosst recent super calibrations shall be availanble in the L1 Input Output Cache."/>
