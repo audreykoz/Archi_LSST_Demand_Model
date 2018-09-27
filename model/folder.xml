@@ -2,6 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LSST Demand Scratch Pad"
     id="37729dc9-3e15-41eb-9f21-1be89229996e"
+    purpose="** This model has been integrated into the LSST model and is archived. Do not make any changes to thiis model ** &#xA;"
     version="4.0.0">
   <properties
       key="Report:Model:Hide:Business"
